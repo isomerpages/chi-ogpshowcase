@@ -1,8 +1,39 @@
 logo: /images/ttshlogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Products
+    url: /all-products
+    sublinks:
+      - title: CheckFirst
+        url: /checkfirst
+      - title: Data.gov.sg
+        url: /data-gov-sg
+      - title: DigiMC
+        url: /digimc
+      - title: Form.gov.sg
+        url: /form-gov-sg
+      - title: Homer
+        url: /homer
+      - title: Isomer
+        url: /isomer
+      - title: Opendoc
+        url: /opendoc
+      - title: PaySG
+        url: /paysg
+      - title: Postman
+        url: /postman
+      - title: RedeemSG
+        url: /redeem-sg
+      - title: sgID
+        url: /sg-ID
+  - title: Resources
+    url: /resources
+    sublinks:
+      - title: AskGov
+        url: /askgov
+  - title: Tools
+    url: /tools
+    sublinks:
+      - title: For.gov.sg
+        url: /for-gov-sg
+  - title: Use cases
+    url: /use-cases
