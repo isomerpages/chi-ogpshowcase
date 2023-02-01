@@ -1,8 +1,11 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Open Government Products for Tan Tock Seng Hospital
+description: A list of products and uses cases that are approved to use or in
+  use by staff of Tan Tock Seng Hospital. The site aims to empower staff with
+  whitelisted technology, to achieve better or similar results, with less
+  effort.
+image: /images/TTSHLogoVertical.png
 permalink: /
 notification: ""
 sections:
@@ -27,3 +30,4 @@ sections:
       button: Button text
       url: /faq/
 ---
+
