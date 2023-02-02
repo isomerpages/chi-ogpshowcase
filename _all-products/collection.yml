@@ -2,6 +2,7 @@ collections:
   all-products:
     output: true
     order:
+      - Homer.md
       - Isomer.md
       - DigiMC.md
       - DataGovSG.md
