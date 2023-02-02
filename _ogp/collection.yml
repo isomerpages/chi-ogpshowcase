@@ -4,6 +4,6 @@ collections:
     order:
       - All Tools/.keep
       - All Resources/.keep
-      - All Products/Data Gov SG.md
-      - All Products/CheckFirst.md
       - All Products/.keep
+      - All Products/CheckFirst.md
+      - All Products/Data Gov SG.md
