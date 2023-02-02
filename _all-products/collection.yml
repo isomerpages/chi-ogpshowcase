@@ -2,7 +2,6 @@ collections:
   all-products:
     output: true
     order:
-      - terms-of-use.md
       - RedeemSG.md
       - privacy.md
       - sgID.md
