@@ -2,4 +2,4 @@ collections:
   all-products:
     output: true
     order:
-      - Content.md
+      - CheckFirst.md
