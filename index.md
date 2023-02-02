@@ -13,16 +13,6 @@ sections:
       title: Open Government Products for Healthcare
       background: /images/Asset 3@5x-100.jpg
       url: /contact-us/
-      key_highlights:
-        - title: ""
-          description: ""
-          url: https://google.com
-        - title: ""
-          description: ""
-          url: https://gmail.com
-        - title: ""
-          description: ""
-          url: /privacy/
   - infobar:
       title: Healthcare now has access to secure, easy-to-use tools
       description: Open Government Products are tools designed to enhance public good,
