@@ -1,7 +1,0 @@
-collections:
-  ogp:
-    output: true
-    order:
-      - All Tools/.keep
-      - All Resources/.keep
-      - All Products/.keep
