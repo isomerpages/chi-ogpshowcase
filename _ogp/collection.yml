@@ -4,6 +4,7 @@ collections:
     order:
       - All Tools/.keep
       - All Resources/.keep
+      - All Products/Opendoc.md
       - All Products/PaySG.md
       - All Products/Postman.md
       - All Products/.keep
