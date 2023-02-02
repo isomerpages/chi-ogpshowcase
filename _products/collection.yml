@@ -1,5 +1,5 @@
 collections:
-  all-products:
+  products:
     output: true
     order:
       - CheckFirst.md
