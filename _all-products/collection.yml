@@ -2,6 +2,7 @@ collections:
   all-products:
     output: true
     order:
+      - Postman.md
       - PaySG.md
       - Opendoc.md
       - FormGovSG.md
