@@ -1,5 +1,5 @@
 collections:
-  products:
+  ogp:
     output: true
     order:
       - All Resources/.keep
