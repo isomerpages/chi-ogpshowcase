@@ -4,6 +4,7 @@ collections:
     order:
       - All Tools/.keep
       - All Resources/.keep
+      - All Products/Homer.md
       - All Products/Isomer.md
       - All Products/Opendoc.md
       - All Products/PaySG.md
