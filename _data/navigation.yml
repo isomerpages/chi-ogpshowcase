@@ -1,7 +1,7 @@
 logo: /images/ttshlogo.png
 links:
   - title: Products
-    url: /all-products
+    url: /products
     sublinks:
       - title: CheckFirst
         url: /checkfirst
@@ -26,12 +26,12 @@ links:
       - title: sgID
         url: /sg-ID
   - title: Resources
-    url: /ogp/all-resources
+    url: /resources
     sublinks:
       - title: AskGov
         url: /askgov
   - title: Tools
-    url: /ogp/all-tools
+    url: /tools
     sublinks:
       - title: For.gov.sg
         url: /for-gov-sg
