@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Open Government Products for TTSH
+      title: Open Government Products for Healthcare
       background: /images/hero-banner.png
       url: /contact-us/
       key_highlights:
@@ -24,10 +24,9 @@ sections:
           description: ""
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Healthcare now has access to secure, easy-to-use tools
+      description: Open Government Productsare tools designed to enhance public good,
+        both for public officers and citizens alike.
+      button: View all available products
       url: /faq/
 ---
-
