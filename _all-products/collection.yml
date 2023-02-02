@@ -1,5 +1,5 @@
 collections:
-  checkfirst:
+  all-products:
     output: true
     order:
       - Content.md
