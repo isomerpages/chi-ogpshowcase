@@ -2,14 +2,14 @@ collections:
   all-products:
     output: true
     order:
-      - RedeemSG.md
-      - sgID.md
-      - Postman.md
-      - PaySG.md
-      - Opendoc.md
+      - CheckFirst.md
+      - DataGovSG.md
+      - DigiMC.md
       - FormGovSG.md
       - Homer.md
       - Isomer.md
-      - DigiMC.md
-      - DataGovSG.md
-      - CheckFirst.md
+      - Opendoc.md
+      - PaySG.md
+      - Postman.md
+      - RedeemSG.md
+      - sgID.md
