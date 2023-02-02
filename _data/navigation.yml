@@ -1,10 +1,10 @@
 logo: /images/ttshlogo.png
 links:
   - title: Products
-    url: /all-products
+    url: https://www.open.gov.sg/all-products/
     sublinks:
       - title: CheckFirst
-        url: /checkfirst
+        url: https://www.open.gov.sg/all-products/checkfirst/
       - title: Data.gov.sg
         url: /data-gov-sg
       - title: DigiMC
