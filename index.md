@@ -19,4 +19,7 @@ sections:
         both for public officers and citizens alike.
       button: View all available products
       url: /faq/
+  - resources:
+      title: Latest Healthcare use cases
+      button: View all healthcare use cases
 ---
