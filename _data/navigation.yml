@@ -1,7 +1,7 @@
 logo: /images/ttshlogo.png
 links:
   - title: Products
-    url: /ogp/all-products/checkfirst/
+    url: /ogp
     sublinks:
       - title: CheckFirst
         url: /all-products/checkfirst
