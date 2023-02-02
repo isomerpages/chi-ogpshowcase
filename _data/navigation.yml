@@ -26,14 +26,14 @@ links:
       - title: sgID
         url: /products/sg-ID
   - title: Resources
-    url: /resources
+    url: /resources/askgov
     sublinks:
       - title: AskGov
-        url: /askgov
+        url: /resources/askgov
   - title: Tools
-    url: /tools
+    url: /tools/for-gov-sg
     sublinks:
       - title: For.gov.sg
-        url: /for-gov-sg
+        url: /tools/for-gov-sg
   - title: Use cases
     url: /use-cases
