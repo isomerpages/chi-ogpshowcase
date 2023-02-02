@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: Open Government Products for Healthcare
-      background: /images/Asset 4@5x.png
+      background: /images/Asset 5@5x.png
       url: /contact-us/
   - infobar:
       title: Healthcare now has access to secure, easy-to-use tools
