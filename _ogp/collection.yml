@@ -4,15 +4,15 @@ collections:
     order:
       - All Tools/.keep
       - All Resources/.keep
+      - All Products/.keep
+      - All Products/CheckFirst.md
+      - All Products/DataGovSG.md
+      - All Products/DigiMC.md
       - All Products/FormGovSG.md
       - All Products/Homer.md
       - All Products/Isomer.md
       - All Products/Opendoc.md
       - All Products/PaySG.md
       - All Products/Postman.md
-      - All Products/.keep
       - All Products/RedeemSG.md
       - All Products/sgID.md
-      - All Products/CheckFirst.md
-      - All Products/DataGovSG.md
-      - All Products/DigiMC.md
