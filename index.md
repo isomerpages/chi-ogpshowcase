@@ -25,7 +25,7 @@ sections:
           url: /privacy/
   - infobar:
       title: Healthcare now has access to secure, easy-to-use tools
-      description: Open Government Productsare tools designed to enhance public good,
+      description: Open Government Products are tools designed to enhance public good,
         both for public officers and citizens alike.
       button: View all available products
       url: /faq/
