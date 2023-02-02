@@ -29,11 +29,11 @@ links:
     url: /ogp
     sublinks:
       - title: AskGov
-        url: /askgov
+        url: all-resources/askgov
   - title: Tools
     url: /ogp
     sublinks:
       - title: For.gov.sg
-        url: /for-gov-sg
+        url: all-tools/for-gov-sg
   - title: Use cases
     url: /use-cases
