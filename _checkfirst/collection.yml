@@ -1,5 +1,4 @@
 collections:
   checkfirst:
     output: true
-    order:
-      - faq.md
+    order: []
