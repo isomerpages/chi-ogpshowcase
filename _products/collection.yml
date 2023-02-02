@@ -2,5 +2,5 @@ collections:
   products:
     output: true
     order:
-      - Products/CheckFirst.md
-      - Products/.keep
+      - All Products/CheckFirst.md
+      - All Products/.keep
