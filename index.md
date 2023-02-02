@@ -17,7 +17,7 @@ sections:
       description: Open Government Products are tools designed to enhance public good,
         both for public officers and citizens alike.
       button: View all available products
-      url: /ogp/all-products/checkfirst
+      url: /products/checkfirst
   - resources:
       title: Latest Healthcare use cases
       button: View all healthcare use cases
