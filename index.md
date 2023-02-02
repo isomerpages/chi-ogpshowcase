@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: Open Government Products for Healthcare
-      background: /images/hero-banner.png
+      background: /images/Asset 1@5x.png
       url: /contact-us/
       key_highlights:
         - title: ""
