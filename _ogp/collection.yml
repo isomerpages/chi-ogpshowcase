@@ -4,6 +4,7 @@ collections:
     order:
       - All Tools/.keep
       - All Resources/.keep
+      - All Products/DigiMC.md
       - All Products/.keep
       - All Products/CheckFirst.md
       - All Products/DataGovSG.md
