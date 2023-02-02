@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - RedeemSG.md
-      - privacy.md
       - sgID.md
       - Postman.md
       - PaySG.md
