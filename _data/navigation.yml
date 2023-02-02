@@ -4,7 +4,7 @@ links:
     url: /products
     sublinks:
       - title: CheckFirst
-        url: /checkfirst
+        url: /all-products/checkfirst
       - title: Data.gov.sg
         url: /data-gov-sg
       - title: DigiMC
