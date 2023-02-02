@@ -4,9 +4,9 @@ collections:
     order:
       - All Tools/.keep
       - All Resources/.keep
+      - All Products/.keep
       - All Products/RedeemSG.md
       - All Products/sgID.md
-      - All Products/DigiMC.md
-      - All Products/.keep
       - All Products/CheckFirst.md
       - All Products/DataGovSG.md
+      - All Products/DigiMC.md
