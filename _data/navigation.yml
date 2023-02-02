@@ -1,10 +1,10 @@
 logo: /images/ttshlogo.png
 links:
   - title: Products
-    url: /products
+    url: /products/checkfirst
     sublinks:
       - title: CheckFirst
-        url: /checkfirst
+        url: /products/checkfirst
       - title: Data.gov.sg
         url: /data-gov-sg
       - title: DigiMC
