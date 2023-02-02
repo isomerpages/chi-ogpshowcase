@@ -2,4 +2,5 @@ collections:
   products:
     output: true
     order:
+      - Products/CheckFirst.md
       - Products/.keep
