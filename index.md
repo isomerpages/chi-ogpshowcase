@@ -12,13 +12,12 @@ sections:
   - hero:
       title: Open Government Products for Healthcare
       background: /images/Asset 5@5x.png
-      url: /contact-us/
   - infobar:
       title: Healthcare now has access to secure, easy-to-use tools
       description: Open Government Products are tools designed to enhance public good,
         both for public officers and citizens alike.
       button: View all available products
-      url: /faq/
+      url: /ogp/all-products/checkfirst
   - resources:
       title: Latest Healthcare use cases
       button: View all healthcare use cases
