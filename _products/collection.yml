@@ -2,6 +2,7 @@ collections:
   products:
     output: true
     order:
+      - CheckFirst/Tutorial.md
       - CheckFirst/Get Onboard.md
       - CheckFirst/.keep
       - CheckFirst/Description.md
