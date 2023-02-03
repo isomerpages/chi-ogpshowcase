@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CheckFirst/.keep
-      - CheckFirst.md
       - DataGovSG.md
       - DigiMC.md
       - FormGovSG.md
