@@ -2,10 +2,10 @@ collections:
   products:
     output: true
     order:
-      - CheckFirst/Tutorial.md
-      - CheckFirst/Get Onboard.md
       - CheckFirst/.keep
       - CheckFirst/Description.md
+      - CheckFirst/Get Onboard.md
+      - CheckFirst/Tutorial.md
       - DataGovSG/.keep
       - DataGovSG/Description.md
       - DigiMC/.keep
