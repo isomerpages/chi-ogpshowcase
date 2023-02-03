@@ -2,10 +2,10 @@ collections:
   products:
     output: true
     order:
-      - DataGovSG/Description.md
-      - DataGovSG/.keep
-      - CheckFirst/Description.md
       - CheckFirst/.keep
+      - CheckFirst/Description.md
+      - DataGovSG/.keep
+      - DataGovSG/Description.md
       - DigiMC.md
       - FormGovSG.md
       - Homer.md
