@@ -4,4 +4,4 @@ permalink: /products/CheckFirst/use-cases/
 description: ""
 third_nav_title: CheckFirst
 ---
-10 Year Coronary Artery Disease Risk Calculator
+[10 Year Coronary Artery Disease Risk Calculator](https://cms.isomer.gov.sg/sites/ttsh-ogpshowcase/use-cases/checkfirst/10-YearCoronaryArteryDiseaseRiskCalculator/)
