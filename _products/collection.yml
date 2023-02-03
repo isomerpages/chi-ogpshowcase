@@ -8,8 +8,8 @@ collections:
       - Homer/.keep
       - Isomer/Description.md
       - Isomer/.keep
-      - Opendoc/Description.md
-      - Opendoc/.keep
+      - OpenDoc/Description.md
+      - OpenDoc/.keep
       - PaySG/Description.md
       - PaySG/.keep
       - Postman/Description.md
