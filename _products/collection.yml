@@ -2,7 +2,7 @@ collections:
   products:
     output: true
     order:
-      - CheckFirst/description.md
+      - CheckFirst/Description.md
       - CheckFirst/.keep
       - DataGovSG.md
       - DigiMC.md
