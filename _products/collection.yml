@@ -2,7 +2,7 @@ collections:
   products:
     output: true
     order:
-      - RedeemSG/RedeemSG.md
+      - RedeemSG/Description.md
       - RedeemSG/.keep
       - SgID/Description.md
       - SgID/.keep
