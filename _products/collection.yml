@@ -4,7 +4,7 @@ collections:
     order:
       - CheckFirst/.keep
       - CheckFirst/Description.md
-      - CheckFirst/Get Onboard.md
+      - CheckFirst/Get Started.md
       - CheckFirst/Tutorial.md
       - DataGovSG/.keep
       - DataGovSG/Description.md
