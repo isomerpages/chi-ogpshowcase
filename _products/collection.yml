@@ -2,7 +2,7 @@ collections:
   products:
     output: true
     order:
-      - Homer/Homer.md
+      - Homer/Description.md
       - Homer/.keep
       - Isomer/Description.md
       - Isomer/.keep
