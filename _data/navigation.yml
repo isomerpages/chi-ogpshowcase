@@ -6,32 +6,32 @@ links:
       - title: CheckFirst
         url: /products/checkfirst/description
       - title: Data.gov.sg
-        url: /products/data-gov-sg
+        url: /products/data-gov-sg/description
       - title: DigiMC
-        url: /products/digimc
+        url: /products/digimc/description
       - title: Form.gov.sg
-        url: /products/form-gov-sg
+        url: /products/form-gov-sg/description
       - title: Homer
-        url: /products/homer
+        url: /products/homer/description
       - title: Isomer
-        url: /products/isomer
+        url: /products/isomer/description
       - title: Opendoc
-        url: /products/opendoc
+        url: /products/opendoc/description
       - title: PaySG
-        url: /products/paysg
+        url: /products/paysg/description
       - title: Postman
-        url: /products/postman
+        url: /products/postman/description
       - title: RedeemSG
-        url: /products/redeem-sg
+        url: /products/redeem-sg/description
       - title: sgID
-        url: /products/sg-ID
+        url: /products/sg-ID/description
   - title: Resources
-    url: /resources/askgov
+    url: /resources/askgov/description
     sublinks:
       - title: AskGov
         url: /resources/askgov
   - title: Tools
-    url: /tools/for-gov-sg
+    url: /tools/for-gov-sg/description
     sublinks:
       - title: For.gov.sg
         url: /tools/for-gov-sg
