@@ -2,7 +2,7 @@ collections:
   products:
     output: true
     order:
-      - FormSG/FormGovSG.md
+      - FormSG/Description.md
       - FormSG/.keep
       - Homer/Description.md
       - Homer/.keep
