@@ -2,7 +2,7 @@ collections:
   products:
     output: true
     order:
-      - DigiMC/DigiMC.md
+      - DigiMC/Description.md
       - DigiMC/.keep
       - FormSG/Description.md
       - FormSG/.keep
