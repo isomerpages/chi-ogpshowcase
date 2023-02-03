@@ -2,25 +2,25 @@ collections:
   products:
     output: true
     order:
-      - DigiMC/Description.md
-      - DigiMC/.keep
-      - FormSG/Description.md
-      - FormSG/.keep
-      - Homer/Description.md
-      - Homer/.keep
-      - Isomer/Description.md
-      - Isomer/.keep
-      - OpenDoc/Description.md
-      - OpenDoc/.keep
-      - PaySG/Description.md
-      - PaySG/.keep
-      - Postman/Description.md
-      - Postman/.keep
-      - RedeemSG/Description.md
-      - RedeemSG/.keep
-      - SgID/Description.md
-      - SgID/.keep
       - CheckFirst/.keep
       - CheckFirst/Description.md
       - DataGovSG/.keep
       - DataGovSG/Description.md
+      - DigiMC/.keep
+      - DigiMC/Description.md
+      - FormSG/.keep
+      - FormSG/Description.md
+      - Homer/.keep
+      - Homer/Description.md
+      - Isomer/.keep
+      - Isomer/Description.md
+      - OpenDoc/.keep
+      - OpenDoc/Description.md
+      - PaySG/.keep
+      - PaySG/Description.md
+      - Postman/.keep
+      - Postman/Description.md
+      - RedeemSG/.keep
+      - RedeemSG/Description.md
+      - SgID/.keep
+      - SgID/Description.md
