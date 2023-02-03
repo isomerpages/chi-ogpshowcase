@@ -2,6 +2,7 @@ collections:
   products:
     output: true
     order:
+      - PaySG/.keep
       - Postman/Description.md
       - Postman/.keep
       - RedeemSG/Description.md
