@@ -16,8 +16,16 @@ CheckFirst provides an easy way for healthcare staff to build a simple calculato
 
 ### **What to expect**
 
-Users will be able to 
+In CheckFirst, you will be able to set questions in the form of:
+* Yes/no 
+* Free text
+* Multiple-choice  
+* Constants Table
+* Date calculation
+* Complex calculation
+
 ![](/images/Asset%201@5.png)
 
+
+
 ![](/images/Yes_No%20step%203.png)
-   
