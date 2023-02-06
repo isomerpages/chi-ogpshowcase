@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Open Government Products for Tan Tock Seng Hospital
+title: Open Government Products for Healthcare
 description: A list of products and uses cases that are approved to use or in
   use by staff of Tan Tock Seng Hospital. The site aims to empower staff with
   whitelisted technology, to achieve better or similar results, with less
@@ -22,3 +22,4 @@ sections:
       title: Latest Healthcare use cases
       button: View all healthcare use cases
 ---
+
