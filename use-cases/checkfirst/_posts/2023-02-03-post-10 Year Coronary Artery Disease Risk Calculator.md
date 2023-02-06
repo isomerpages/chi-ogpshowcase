@@ -15,4 +15,4 @@ image: ""
 [View other CheckFirst use cases](https://staging.d2p0smzkoz0iqs.amplifyapp.com/use-cases/checkfirst/)
 
 ##### **Made with**
-[![](/images/checkfirst-logo.svg)](https://staging.d2p0smzkoz0iqs.amplifyapp.com/use-cases/checkfirst/)
+[![](/images/checkfirst-logo.svg)](https://staging.d2p0smzkoz0iqs.amplifyapp.com/products/checkfirst/description/)
