@@ -3,7 +3,7 @@ url: https://www.open.gov.sg
 favicon: /images/TTSHLogoVertical.png
 colors:
   primary-color: "#a6192e"
-  secondary-color: "#4372d6"
+  secondary-color: "#065fd4"
   media-colors:
     - title: media-color-one
       color: "#f7981d"
