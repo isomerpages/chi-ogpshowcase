@@ -12,6 +12,12 @@ CheckFirst provides an easy way for healthcare staff to build a simple calculato
 *   Maps a series of constant value to user input for easy computation
 *   Allows easy sharing of the checker through a URL or by embedding it on the agency’s website
 
-![](/images/Artboard%201.png)
-   
 [CheckFirst Website](https://www.checkfirst.gov.sg/)
+
+### **What to expect**
+
+Users will be able to 
+![](/images/Asset%201@5.png)
+
+![](/images/Yes_No%20step%203.png)
+   
