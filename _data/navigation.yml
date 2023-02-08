@@ -26,10 +26,10 @@ links:
       - title: sgid
         url: /products/sgid/description
   - title: Resources
-    url: /resources/askgov/description
+    url: /resources/AskGov/description/
     sublinks:
       - title: AskGov
-        url: /resources/askgov/description
+        url: /resources/AskGov/description/
   - title: Tools
     url: /tools/for-gov-sg/description
     sublinks:
