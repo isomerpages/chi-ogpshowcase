@@ -14,9 +14,9 @@ CheckFirst provides an easy way for healthcare staff to build a simple calculato
 
 [CheckFirst Website](https://www.checkfirst.gov.sg/)
 
-### **What you can expect**
+### **What to expect**
 
-Questions can be set in the form of:
+There are several types of questions that can be asked:
 * Yes/no
 * Free text
 * Multiple-choice  
@@ -26,11 +26,11 @@ Questions can be set in the form of:
 
 ![](/images/Asset%201@5.png)
 
-Results, answer and calculation logic can be edited within the service.
+Within the service, you can edit results, answers, and calculation logic.
 
 ![](/images/Yes_No%20step%203.png)
 
-Previews are available before go-live.
+There are previews available so that the logic can be checked before going live.
 
 ![](/images/Yes_No%20Eligible%20result.png)
 
