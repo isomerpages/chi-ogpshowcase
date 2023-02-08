@@ -34,10 +34,10 @@ collections:
       - PaySG/Description.md
       - PaySG/Get Started.md
       - PaySG/Use Cases.md
-      - Postman/Use Cases.md
-      - Postman/Get Started.md
       - Postman/.keep
       - Postman/Description.md
+      - Postman/Get Started.md
+      - Postman/Use Cases.md
       - RedeemSG/.keep
       - RedeemSG/Description.md
       - SgID/.keep
