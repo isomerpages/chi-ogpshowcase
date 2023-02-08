@@ -26,10 +26,10 @@ collections:
       - Isomer/Description.md
       - Isomer/Get Started.md
       - Isomer/Use Cases.md
-      - OpenDoc/Use Cases.md
-      - OpenDoc/Get Started.md
       - OpenDoc/.keep
       - OpenDoc/Description.md
+      - OpenDoc/Get Started.md
+      - OpenDoc/Use Cases.md
       - PaySG/.keep
       - PaySG/Description.md
       - Postman/.keep
