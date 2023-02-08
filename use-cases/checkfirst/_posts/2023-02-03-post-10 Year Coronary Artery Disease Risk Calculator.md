@@ -10,8 +10,7 @@ image: ""
 
 [View Calculator](https://www.checkfirst.gov.sg/c/de60590e-9713-424b-9fa0-f69466913622)
 
-[View other CheckFirst use cases](https://cms.isomer.gov.sg/sites/ttsh-ogpshowcase/use-cases/checkfirst/)
-
+[View other CheckFirst use cases](https://cms.isomer.gov.sg/sites/ttsh-ogpshowcase/use-cases/checkfirst/)  
 [View other CheckFirst use cases](https://staging.d2p0smzkoz0iqs.amplifyapp.com/use-cases/checkfirst/)
 
 ##### **Made with**
