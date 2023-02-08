@@ -13,9 +13,9 @@ sections:
       title: Open Government Products for Healthcare
       background: /images/Artboard.png
   - infobar:
-      title: Healthcare now has access to secure, easy-to-use tools
-      description: Open Government Products are tools designed to enhance public good,
-        both for public officers and citizens alike.
+      title: Healthcare now has access to secure and easy-to-use tools
+      description: Open Government Products are tools designed by GovTech to enhance
+        public good, both for public officers and citizens alike.
       button: View all available products
       url: /products/checkfirst
   - resources:
