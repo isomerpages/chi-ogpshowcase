@@ -14,10 +14,10 @@ collections:
       - DigiMC/Description.md
       - DigiMC/Get Started.md
       - DigiMC/Use Cases.md
-      - FormSG/Use Cases.md
-      - FormSG/Get Started.md
       - FormSG/.keep
       - FormSG/Description.md
+      - FormSG/Get Started.md
+      - FormSG/Use Cases.md
       - Homer/.keep
       - Homer/Description.md
       - Isomer/.keep
