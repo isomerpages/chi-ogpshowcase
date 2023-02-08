@@ -11,7 +11,7 @@ notification: ""
 sections:
   - hero:
       title: Open Government Products for Healthcare
-      background: /images/Asset 5@5x.png
+      background: /images/Artboard.png
   - infobar:
       title: Healthcare now has access to secure, easy-to-use tools
       description: Open Government Products are tools designed to enhance public good,
@@ -22,4 +22,3 @@ sections:
       title: Latest Healthcare use cases
       button: View all healthcare use cases
 ---
-
