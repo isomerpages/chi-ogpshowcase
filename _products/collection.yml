@@ -10,10 +10,10 @@ collections:
       - DataGovSG/Description.md
       - DataGovSG/Get Started.md
       - DataGovSG/Use Cases.md
-      - DigiMC/Use Cases.md
-      - DigiMC/Get Started.md
       - DigiMC/.keep
       - DigiMC/Description.md
+      - DigiMC/Get Started.md
+      - DigiMC/Use Cases.md
       - FormSG/.keep
       - FormSG/Description.md
       - Homer/.keep
