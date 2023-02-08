@@ -2,5 +2,5 @@ collections:
   tools:
     output: true
     order:
-      - For gov sg/Description.md
-      - For gov sg/.keep
+      - For sg/Description.md
+      - For sg/.keep
