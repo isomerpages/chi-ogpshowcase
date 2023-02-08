@@ -30,10 +30,10 @@ collections:
       - OpenDoc/Description.md
       - OpenDoc/Get Started.md
       - OpenDoc/Use Cases.md
-      - PaySG/Use Cases.md
-      - PaySG/Get Started.md
       - PaySG/.keep
       - PaySG/Description.md
+      - PaySG/Get Started.md
+      - PaySG/Use Cases.md
       - Postman/.keep
       - Postman/Description.md
       - RedeemSG/.keep
