@@ -22,10 +22,10 @@ collections:
       - Homer/Description.md
       - Homer/Get Started.md
       - Homer/Use Cases.md
-      - Isomer/Use Cases.md
-      - Isomer/Get Started.md
       - Isomer/.keep
       - Isomer/Description.md
+      - Isomer/Get Started.md
+      - Isomer/Use Cases.md
       - OpenDoc/.keep
       - OpenDoc/Description.md
       - PaySG/.keep
