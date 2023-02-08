@@ -33,6 +33,5 @@ Previews are available before go-live.
 
 ![](/images/Yes_No%20Eligible%20result.png)
 
-[Get started now](https://staging.d2p0smzkoz0iqs.amplifyapp.com/products/CheckFirst/get-started/)
-
+[Get started now](https://staging.d2p0smzkoz0iqs.amplifyapp.com/products/CheckFirst/get-started/)  
 [Get started now](https://cms.isomer.gov.sg/sites/ttsh-ogpshowcase/products/CheckFirst/get-started/)
