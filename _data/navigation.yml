@@ -31,10 +31,10 @@ links:
       - title: AskGov
         url: /resources/AskGov/description/
   - title: Tools
-    url: /tools/for-gov-sg/description
+    url: /tools/For-gov-sg/description/
     sublinks:
       - title: For.gov.sg
-        url: /tools/for-gov-sg/description
+        url: /tools/For-gov-sg/description/
   - title: Use cases
     url: /use-cases
   - title: Submit use case
