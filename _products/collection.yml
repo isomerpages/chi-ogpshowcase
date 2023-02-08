@@ -18,10 +18,10 @@ collections:
       - FormSG/Description.md
       - FormSG/Get Started.md
       - FormSG/Use Cases.md
-      - Homer/Use Cases.md
-      - Homer/Get Started.md
       - Homer/.keep
       - Homer/Description.md
+      - Homer/Get Started.md
+      - Homer/Use Cases.md
       - Isomer/.keep
       - Isomer/Description.md
       - OpenDoc/.keep
