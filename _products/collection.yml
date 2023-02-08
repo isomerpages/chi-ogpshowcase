@@ -6,10 +6,10 @@ collections:
       - CheckFirst/Description.md
       - CheckFirst/Get Started.md
       - CheckFirst/Use Cases.md
-      - DataGovSG/Use Cases.md
-      - DataGovSG/Get Started.md
       - DataGovSG/.keep
       - DataGovSG/Description.md
+      - DataGovSG/Get Started.md
+      - DataGovSG/Use Cases.md
       - DigiMC/.keep
       - DigiMC/Description.md
       - FormSG/.keep
