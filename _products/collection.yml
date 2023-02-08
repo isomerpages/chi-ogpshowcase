@@ -38,9 +38,9 @@ collections:
       - Postman/Description.md
       - Postman/Get Started.md
       - Postman/Use Cases.md
-      - RedeemSG/Use Cases.md
-      - RedeemSG/Get Started.md
       - RedeemSG/.keep
       - RedeemSG/Description.md
+      - RedeemSG/Get Started.md
+      - RedeemSG/Use Cases.md
       - SgID/.keep
       - SgID/Description.md
