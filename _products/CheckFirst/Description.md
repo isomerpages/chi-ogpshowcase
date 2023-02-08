@@ -14,8 +14,9 @@ CheckFirst provides an easy way for healthcare staff to build a simple calculato
 
 [CheckFirst Website](https://www.checkfirst.gov.sg/)
 
-### **Questions can be set in the form of:**
+### **What you can expect**
 
+Questions can be set in the form of:
 * Yes/no
 * Free text
 * Multiple-choice  
