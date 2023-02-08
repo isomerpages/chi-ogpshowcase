@@ -29,7 +29,7 @@ links:
     url: /resources/askgov/description
     sublinks:
       - title: AskGov
-        url: /resources/askgov
+        url: /resources/askgov/description
   - title: Tools
     url: /tools/for-gov-sg/description
     sublinks:
