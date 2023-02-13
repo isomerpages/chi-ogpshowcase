@@ -39,6 +39,10 @@ links:
     url: /use-cases
   - title: Submit use case
     url: /submit-use-case
-  - title: "Replace this "
+  - title: Isomer Use Cases
     url: www.google.com
-    sublinks: []
+    sublinks:
+      - title: View all Use Case
+        url: www.google.com
+      - title: Submit new use case
+        url: www.google.com
