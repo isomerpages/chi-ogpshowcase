@@ -10,4 +10,4 @@ third_nav_title: Postman
 For more information on [Postman](https://postman.gov.sg/), please refer to [https://postman.gov.sg/](https://postman.gov.sg/)
 
 ### **Tutorial**
-The official [guide](https://guide.postman.gov.sg/before-you-start) can be accessed from: [https://guide.postman.gov.sg/before-you-start](https://guide.postman.gov.sg/before-you-start)
+The [official guide](https://guide.postman.gov.sg/before-you-start) can be accessed from: [https://guide.postman.gov.sg/before-you-start](https://guide.postman.gov.sg/before-you-start)
