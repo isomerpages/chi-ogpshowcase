@@ -25,4 +25,4 @@ You can read more about how to launch your website on their [guide](https://guid
 For more information on [Isomer](https://www.isomer.gov.sg/), please refer to [https://www.isomer.gov.sg/](https://www.isomer.gov.sg/)
 
 ### **Tutorial**
-The official [guide](https://guide.isomer.gov.sg/) can be accessed from: [https://guide.isomer.gov.sg/](https://guide.isomer.gov.sg/)
+The [official guide](https://guide.isomer.gov.sg/) can be accessed from: [https://guide.isomer.gov.sg/](https://guide.isomer.gov.sg/)
