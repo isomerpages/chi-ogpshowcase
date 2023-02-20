@@ -14,13 +14,3 @@ PaySG makes it easy for citizens to pay Government.
 * User receives a receipt in their email from no-reply@pay.gov.sg
 
 For more information on [PaySG](https://pay.gov.sg/), please refer to [https://pay.gov.sg/](https://pay.gov.sg/)
-
-### **What to expect**
-
-There are several types of questions that can be asked:
-* Yes/no
-* Free text
-* Multiple-choice  
-* Constants Table
-* Date calculation
-* Complex calculation
