@@ -5,7 +5,8 @@ description: ""
 third_nav_title: AskGov
 ---
 ### **How to get access**
-Access is currently unavailable. Further details will be provided at a later date.  
+* Tan Tock Seng usage is still pending and will be updated at a later date. 
+
 For more information on [AskGov](https://ask.gov.sg/), please refer to [https://ask.gov.sg/](https://ask.gov.sg/)
 
 ### **Tutorial**
