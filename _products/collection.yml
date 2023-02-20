@@ -17,10 +17,10 @@ collections:
       - Isomer/Description.md
       - Isomer/Get Started.md
       - Isomer/Use Cases.md
-      - OpenDoc/.keep
-      - OpenDoc/Description.md
-      - OpenDoc/Get Started.md
-      - OpenDoc/Use Cases.md
+      - Vault/.keep
+      - Vault/Description.md
+      - Vault/Get Started.md
+      - Vault/Use Cases.md
       - PaySG/.keep
       - PaySG/Description.md
       - PaySG/Get Started.md
