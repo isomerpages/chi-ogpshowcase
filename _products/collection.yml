@@ -24,7 +24,7 @@ collections:
       - PaySG/.keep
       - PaySG/Description.md
       - PaySG/Get Started.md
-      - PaySG/Use Cases.md
+      - PaySG/Healthcare Use Cases.md
       - Postman/.keep
       - Postman/Description.md
       - Postman/Get Started.md
