@@ -25,10 +25,11 @@ For more information on [Postman](https://postman.gov.sg/), please refer to [htt
 * **No official source of information:** Citizens currently receive messages from the government via many channels, and consequently are at risk of being phished.
 
 **Is Postman free?**
-* Sending an email is free. SMS will be charged based on Twilio's SMS rates.
+* Sending an email is free. 
+* SMS will be charged based on Twilio's SMS rates. 
+* Sending Telegram bot messages are free.
 
 **Is Postman secure?**
 
 * We recommend that you do not add any sensitive information to the messages. Some of our users generate a recipient specific unique link that opens up to a locked page. 
 * When in doubt, you should follow IM8’s guidelines on data classification.
-
