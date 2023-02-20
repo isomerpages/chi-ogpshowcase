@@ -18,12 +18,11 @@ To edit your site, you’ll have to log onto IsomerCMS. Before you do that, make
 
 ### Site launch
 
-Let us know in advance (ideally 2 weeks) prior to when you’d like to launch the site. If you need the site to be up urgently, let us know when we’re onboarding you onto isomer so we can slot you in our launch schedule quickly.
+Let isomer know in advance (ideally 2 weeks) prior to when you’d like to launch the site. If you need the site to be up urgently, let isomer know when they’re onboarding you onto isomer so they can slot you in their launch schedule quickly.
 
-You can read more about how to launch your website on our guide.
+You can read more about how to launch your website on their [guide](https://guide.isomer.gov.sg/).
 
 For more information on [Isomer](https://www.isomer.gov.sg/), please refer to [https://www.isomer.gov.sg/](https://www.isomer.gov.sg/)
 
 ### **Tutorial**
 The official [guide](https://guide.isomer.gov.sg/) can be accessed from: [https://guide.isomer.gov.sg/](https://guide.isomer.gov.sg/)
-
