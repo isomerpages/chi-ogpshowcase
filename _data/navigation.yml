@@ -11,12 +11,10 @@ links:
         url: /products/digimc/description
       - title: FormSG
         url: /products/form-sg/description
-      - title: Homer
-        url: /products/homer/description
       - title: Isomer
         url: /products/isomer/description
-      - title: OpenDoc
-        url: /products/opendoc/description
+      - title: Vault
+        url: /products/vault/description
       - title: PaySG
         url: /products/paysg/description
       - title: Postman.gov.sg
