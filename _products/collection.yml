@@ -20,7 +20,7 @@ collections:
       - Vault/.keep
       - Vault/Description.md
       - Vault/Get Started.md
-      - Vault/Use Cases.md
+      - Vault/Healthcare Use Cases.md
       - PaySG/.keep
       - PaySG/Description.md
       - PaySG/Get Started.md
