@@ -4,7 +4,7 @@ permalink: /products/checkfirst/description/
 description: ""
 third_nav_title: CheckFirst
 ---
-### **A calculator and eligibility builder for the government**
+### **Eligibility checker and calculator builder for the Singapore Government.**
 
 CheckFirst provides an easy way for healthcare staff to build a simple calculator or checker without having to engage vendors to build a customised solution that could be hard to update and change overtime.
 
