@@ -15,6 +15,7 @@ Postman lets public officers mass send messages to citizens through Telegram, SM
 * **Stop your campaign whenever** - You can stop your campaign with a click of a button even when sending is in progress.
 * **See past campaigns' stats easily** - You can see summary stats from Postman's campaign landing page for past campaigns.
 
+For more information on [Postman](https://postman.gov.sg/), please refer to [https://postman.gov.sg/](https://postman.gov.sg/)
 ### **Frequently asked questions**
 
 **What problems are Postman solving?**
@@ -31,4 +32,3 @@ Postman lets public officers mass send messages to citizens through Telegram, SM
 * We recommend that you do not add any sensitive information to the messages. Some of our users generate a recipient specific unique link that opens up to a locked page. 
 * When in doubt, you should follow IM8’s guidelines on data classification.
 
-For more information on [Postman](https://postman.gov.sg/), please refer to [https://postman.gov.sg/](https://postman.gov.sg/)
