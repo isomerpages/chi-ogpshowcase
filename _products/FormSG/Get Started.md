@@ -24,4 +24,4 @@ Note: Secret Key if lost, will lead to a permanent loss of all responses.
 	* Collate responses with FormSG's [data collation tool.](https://collate.form.gov.sg/)
 
 ### **Tutorial**
-The official [guide](https://guide.form.gov.sg/introduction/what-is-formsg) can be accessed from: [https://guide.form.gov.sg/introduction/what-is-formsg](https://guide.form.gov.sg/introduction/what-is-formsg)
+The [official guide](https://guide.form.gov.sg/introduction/what-is-formsg) can be accessed from: [https://guide.form.gov.sg/introduction/what-is-formsg](https://guide.form.gov.sg/introduction/what-is-formsg)
