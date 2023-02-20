@@ -11,7 +11,7 @@ third_nav_title: AskGov
 *   Any issues concerning the answers should be directed to the respective government agencies or Permitted Entity.
 * GovTech is NOT responsible for the provision, accuracy and/or quality of questions and answers hosted on the Service. The relevant government agency or Permitted Entity is responsible for curating the questions.
 
-[Visit AskGov Website](https://ask.gov.sg/)
+For more information on [AskGov](https://ask.gov.sg/), please refer to [https://ask.gov.sg/](https://ask.gov.sg/)
 
 ### **Answers you can already find**
 
