@@ -11,4 +11,4 @@ third_nav_title: CheckFirst
 For more information on [CheckFirst](https://www.checkfirst.gov.sg/), please refer to [https://www.checkfirst.gov.sg/](https://www.checkfirst.gov.sg/)
 
 ### **Tutorial**
-The official [guide](https://guide.checkfirst.gov.sg/) can be accessed from: [https://guide.checkfirst.gov.sg/](https://guide.checkfirst.gov.sg/)
+The [official guide](https://guide.checkfirst.gov.sg/) can be accessed from: [https://guide.checkfirst.gov.sg/](https://guide.checkfirst.gov.sg/)
