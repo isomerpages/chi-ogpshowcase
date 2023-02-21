@@ -21,6 +21,10 @@ links:
         url: /products/redeem-sg/description
       - title: sgid
         url: /products/sgid/description
+      - title: WOGAA
+        url: /products/wogaa/description
+      - title: Vault
+        url: /products/vault/description
   - title: Resources
     url: /resources/AskGov/description/
     sublinks:
