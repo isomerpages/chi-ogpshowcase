@@ -6,6 +6,13 @@ third_nav_title: For sg
 ---
 ### **Trusted short links from **_healthcare professionals_****
 
-* **for.sg** short links can only be created by healthcare professionals, so you can be sure it’s from a trustworthy source.
+ForSG is a link shortener for the healthcare institutions in Singapore. It is built by the Open Government Products team at GovTech.
 
-For more information on [sgID](https://www.id.gov.sg/), please refer to [https://www.id.gov.sg/](https://www.id.gov.sg/) or their [official FAQ](https://www.id.gov.sg/faq).
+Reasons to use a link shortener:
+
+*   URLs are too long to fit into tweets or SMSes, and difficult to remember.
+*   Email clients might block other commercial link shorteners if they are listed as spam on their site.
+*   Citizens are afraid of phishing when receiving a shortened link and unsure of where it goes.
+*   With ForSG, citizens and patients are safe in the knowledge that the links are official. Any healthcare professional from whitelisted organisations below can log in with their emails and immediately create short links with the official for.sg domain.
+
+For more information on [ForSG](https://for.sg/#/), please refer to [https://for.sg/#/](https://for.sg/#/).
