@@ -16,7 +16,7 @@ For more information on [RedeemSG](https://redeem.gov.sg/), please refer to [h
 
 ### **As a recipient**
 * They can visit the [voucher campaign page](https://signup.redeem.gov.sg/) to claim their voucher.
-* Receive a voucher link sent via SMS that contains **voucher.redeem.gov.sg** or **v.redeem.gov.sg**.
+* Receive a voucher link sent via SMS that contains **voucher.redeem.gov.sg** or **v.redeem.gov.sg**. 
 * Spend their voucher at participating merchants. Participating merchants will be provided by the campaign organiser.
 
 ### **As a administrator**
