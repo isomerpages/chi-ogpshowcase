@@ -2,6 +2,7 @@ collections:
   products:
     output: true
     order:
+      - WOGAA/Get Started.md
       - WOGAA/Healthcare Use Cases.md
       - WOGAA/.keep
       - CheckFirst/.keep
