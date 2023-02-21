@@ -7,6 +7,9 @@ third_nav_title: For sg
 ### **Trusted short links from **_healthcare professionals_****
 
 ForSG is a link shortener for the healthcare institutions in Singapore. It is built by the Open Government Products team at GovTech.
+* Easy to use link shortener that cannot be deleted after creation.
+* Comes with a Dashboard and analytics to track link status, clicks and click breakdown.
+* 
 
 Reasons to use a link shortener:
 
