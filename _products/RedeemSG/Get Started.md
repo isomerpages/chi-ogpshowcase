@@ -6,11 +6,6 @@ third_nav_title: RedeemSG
 ---
 ### **How to get onboard**
 
-*   Login is currently available for use by public officers with a gov.sg email.
-*   Tan Tock Seng usage is still pending and will be updated at a later date.
+* Indicate your department's interest and needs via this [form](https://form.gov.sg/621876e1f620bd00130757a6) and the RedeemSG team will be in touch shortly to assess how the product can work for your needs.
 
-For more information on [CheckFirst](https://www.checkfirst.gov.sg/), please refer to [https://www.checkfirst.gov.sg/](https://www.checkfirst.gov.sg/)
-
-### **Tutorial**
-
-The [official guide](https://guide.checkfirst.gov.sg/) can be accessed from: [https://guide.checkfirst.gov.sg/](https://guide.checkfirst.gov.sg/)
+For more information on [RedeemSG](https://redeem.gov.sg/index.html), please refer to [https://redeem.gov.sg/index.html](https://redeem.gov.sg/index.html)
