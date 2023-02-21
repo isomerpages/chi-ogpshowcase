@@ -11,6 +11,7 @@ ForSG is a link shortener for the healthcare institutions in Singapore. It is bu
 * Comes with a Dashboard and analytics to track link status, clicks and click breakdown.
 * Able to search directory to see what links other healthcare professionals  
 have created, and find link owners.
+* Comes with API integration.
 
 Reasons to use a link shortener:
 
