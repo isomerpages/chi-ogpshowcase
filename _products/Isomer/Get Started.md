@@ -4,7 +4,7 @@ permalink: /products/Isomer/get-started/
 description: ""
 third_nav_title: Isomer
 ---
-### **How to get access**
+### **How to get onboard**
 
 
 1.  Create an account on [Github](https://www.github.com/). You can refer to the steps outlined [here](https://guide.isomer.gov.sg/)
