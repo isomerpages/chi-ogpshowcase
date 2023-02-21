@@ -4,7 +4,7 @@ permalink: /products/CheckFirst/get-started/
 description: ""
 third_nav_title: CheckFirst
 ---
-### **How to get access**
+### **How to get onboard**
 * Login is currently available for use by public officers with a gov.sg email. 
 * Tan Tock Seng usage is still pending and will be updated at a later date. 
 
