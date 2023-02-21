@@ -4,7 +4,7 @@ permalink: /products/FormSG/get-started/
 description: ""
 third_nav_title: FormSG
 ---
-### **How to get access**
+### **How to get onboard**
 FormSG is free to access to all TTSH Staff with an Email Address.
 * [Login](https://form.gov.sg/login) with your TTSH Email Address, via your clean or dirty laptop.
 * Enter OTP code that is being sent to your TTSH Email Address.
