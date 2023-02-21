@@ -7,8 +7,6 @@ links:
         url: /products/checkfirst/description
       - title: Data.gov.sg
         url: /products/data-gov-sg/description
-      - title: DigiMC
-        url: /products/digimc/description
       - title: FormSG
         url: /products/formsg/description/
       - title: Isomer
@@ -18,7 +16,7 @@ links:
       - title: Postman.gov.sg
         url: /products/postman-gov-sg/description
       - title: RedeemSG
-        url: /products/redeem-sg/description
+        url: /products/redeemsg/description
       - title: sgid
         url: /products/sgid/description
       - title: WOGAA
