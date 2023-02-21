@@ -17,10 +17,6 @@ collections:
       - Isomer/Description.md
       - Isomer/Get Started.md
       - Isomer/Healthcare Use Cases.md
-      - Vault/.keep
-      - Vault/Description.md
-      - Vault/Get Started.md
-      - Vault/Healthcare Use Cases.md
       - PaySG/.keep
       - PaySG/Description.md
       - PaySG/Get Started.md
@@ -41,3 +37,7 @@ collections:
       - WOGAA/Description.md
       - WOGAA/Get Started.md
       - WOGAA/Healthcare Use Cases.md
+      - Vault/.keep
+      - Vault/Description.md
+      - Vault/Get Started.md
+      - Vault/Healthcare Use Cases.md
