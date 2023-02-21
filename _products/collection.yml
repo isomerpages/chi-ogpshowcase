@@ -2,10 +2,6 @@ collections:
   products:
     output: true
     order:
-      - WOGAA/Description.md
-      - WOGAA/Get Started.md
-      - WOGAA/Healthcare Use Cases.md
-      - WOGAA/.keep
       - CheckFirst/.keep
       - CheckFirst/Description.md
       - CheckFirst/Get Started.md
@@ -41,3 +37,7 @@ collections:
       - SgID/Description.md
       - SgID/Get Started.md
       - SgID/Healthcare Use Cases.md
+      - WOGAA/.keep
+      - WOGAA/Description.md
+      - WOGAA/Get Started.md
+      - WOGAA/Healthcare Use Cases.md
