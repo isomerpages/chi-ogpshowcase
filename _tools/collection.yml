@@ -2,6 +2,6 @@ collections:
   tools:
     output: true
     order:
-      - For sg/Get Started.md
-      - For sg/Description.md
       - For sg/.keep
+      - For sg/Description.md
+      - For sg/Get Started.md
