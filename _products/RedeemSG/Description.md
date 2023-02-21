@@ -29,4 +29,4 @@ For more information on [RedeemSG](https://redeem.gov.sg/), please refer to [h
 * Download the RedeemSG Merchant app on the App Store or Google Play.
 * Key in the shop code to gain access to their shop account. Other staff can also onboard using this same shop code.
 
-You may refer to the [fact sheet](https://redeem.gov.sg/files/RedeemProductFactsheet.pdf) for more information
+You may refer to the [fact sheet](https://redeem.gov.sg/files/RedeemProductFactsheet.pdf) and the [official FAQ](https://redeem.gov.sg/faq.html) for more information.
