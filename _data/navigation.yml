@@ -37,10 +37,3 @@ links:
     url: /use-cases
   - title: Submit use case
     url: /submit-use-case
-  - title: Use Cases
-    url: /use-cases
-    sublinks:
-      - title: View all Use Case
-        url: https://cms.isomer.gov.sg/sites/ttsh-ogpshowcase/use-cases
-      - title: Submit new use case
-        url: https://form.gov.sg/
