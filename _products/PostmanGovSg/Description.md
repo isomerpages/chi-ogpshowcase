@@ -4,10 +4,6 @@ permalink: /products/postman-gov-sg/description/
 description: ""
 third_nav_title: PostmanGovSg
 ---
-
-
-
-
 ### **Reach out to citizens in Minutes**
 
 Postman lets public officers mass send messages to citizens through Telegram, SMS and email via a user interface, with minimal setup required.
@@ -35,5 +31,5 @@ For more information on [Postman](https://postman.gov.sg/), please refer to [htt
 
 **Is Postman secure?**
 
-* We recommend that you do not add any sensitive information to the messages. Some of our users generate a recipient specific unique link that opens up to a locked page. 
+* The Postman team recommend that you do not add any sensitive information to the messages. Some of our users generate a recipient specific unique link that opens up to a locked page. 
 * When in doubt, you should follow IM8’s guidelines on data classification.
