@@ -21,4 +21,4 @@ The form is used by MOM to gather civilian data for the purpose of identificatio
 [View other FormSG use cases](https://staging.d2p0smzkoz0iqs.amplifyapp.com/use-cases/formsg/)
 
 #### **Made with**
-[![](/images/checkfirst-logo.svg)](https://staging.d2p0smzkoz0iqs.amplifyapp.com/products/checkfirst/description/)
+[![](/images/Formsg.png)](https://staging.d2p0smzkoz0iqs.amplifyapp.com/products/formsg/description/)
