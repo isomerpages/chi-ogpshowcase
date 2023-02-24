@@ -9,7 +9,7 @@ image: ""
 #### **Project Owner**
 Ministry of Manpower (MOM)
 
-#### **Solution description**
+#### **Project Aim**
 
 The form is used by MOM to gather civilian data for the purpose of identification and tracking of self-swab test results and administrative follow up.
 
