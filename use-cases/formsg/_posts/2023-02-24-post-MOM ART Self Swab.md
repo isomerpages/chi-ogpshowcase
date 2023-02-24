@@ -13,7 +13,7 @@ Ministry of Manpower (MOM)
 
 The form is used by MOM to gather civilian data for the purpose of identification and tracking of self-swab test results and administrative follow up.
 
-[![MOM ART Self Swab digital form](/images/MOM%20ART%20Self%20Swab.png)](https://form.gov.sg/60b81af0f7c4df001210f2b3)
+[![MOM ART Self Swab Digital Form](/images/MOM%20ART%20Self%20Swab2.png)](/images/MOM%20ART%20Self%20Swab.png)](https://form.gov.sg/60b81af0f7c4df001210f2b3)
 
 [View Form](https://form.gov.sg/60b81af0f7c4df001210f2b3)
 
