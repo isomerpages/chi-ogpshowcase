@@ -17,7 +17,7 @@ sections:
       description: Open Government Products are tools designed by GovTech to enhance
         public good, both for public officers and citizens alike.
       button: View all available products
-      url: /products/checkfirst
+      url: https://staging.d2p0smzkoz0iqs.amplifyapp.com/products/checkfirst/description/
   - resources:
       title: Latest Healthcare use cases
       button: View all healthcare use cases
