@@ -21,4 +21,8 @@ sections:
   - resources:
       title: Latest Healthcare use cases
       button: View all healthcare use cases
+  - infobar:
+      title: Have a Healthcare OGP use case to showcase?
+      button: Submit healthcare use cases
+      url: https://staging.d2p0smzkoz0iqs.amplifyapp.com/submit-use-case/
 ---
