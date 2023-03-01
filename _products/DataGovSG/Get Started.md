@@ -10,3 +10,5 @@ third_nav_title: DataGovSG
 * Data can also be requested via their [Data Request Function.](https://github.com/datagovsg/datagovsg-datasets/issues/new?title=Dataset%20request:%20%3Cdataset%20title%3E) 
 
 For more information on [Data.gov.sg](https://data.gov.sg/), please refer to [https://data.gov.sg/](https://data.gov.sg/)
+
+If you would like help with your project, you can [submit your problem statement](https://form.gov.sg/636b02cff8cbe3001165f9dd) to DSHO and we will see whether we can help. 
