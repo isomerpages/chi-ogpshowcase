@@ -10,7 +10,7 @@ third_nav_title: CheckFirst
 
 For more information on [CheckFirst](https://www.checkfirst.gov.sg/), please refer to [https://www.checkfirst.gov.sg/](https://www.checkfirst.gov.sg/)
 
-Alternatively, you can [submit your problem statement](https://form.gov.sg/636b02cff8cbe3001165f9dd) to the DSHO team and we'll see how we can help. 
+Alternatively, you can [submit your problem statement](https://form.gov.sg/636b02cff8cbe3001165f9dd) to the DSHO team and let us find out how we can assist you.
 
 ### **Tutorial**
 The [official guide](https://guide.checkfirst.gov.sg/) can be accessed from: [https://guide.checkfirst.gov.sg/](https://guide.checkfirst.gov.sg/)
