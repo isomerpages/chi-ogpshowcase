@@ -5,7 +5,7 @@ description: ""
 ---
 ### New Healthcare use case submission
 
-Staff may either
+Staff can either
 * Contact the various OGP teams directly to develop the solution or 
 * [Submit your problem statement](https://form.gov.sg/636b02cff8cbe3001165f9dd) to the DSHO team and we'll see how we can help. 
 
