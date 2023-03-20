@@ -4,8 +4,6 @@ permalink: /products/redeemsg/description/
 description: ""
 third_nav_title: RedeemSG
 ---
-
-
 ### **The trusted voucher system for the Singapore Government**
 
 RedeemSG is a voucher system that helps Singapore Government agencies easily create, issue and track the redemption of vouchers. It also enables merchants to easily accept Government issued vouchers.
