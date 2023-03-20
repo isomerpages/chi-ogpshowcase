@@ -25,7 +25,5 @@ Note: Secret Key if lost, will lead to a permanent loss of all responses.
 
 For more information on [FormSG](https://form.gov.sg/), please refer to [https://form.gov.sg/](https://form.gov.sg/)
 
-If you would like help with your project, you can [submit your problem statement](https://form.gov.sg/636b02cff8cbe3001165f9dd) to DSHO and let us find out how we can assist you.
-
 ### **Tutorial**
 The [official guide](https://guide.form.gov.sg/introduction/what-is-formsg) can be accessed from: [https://guide.form.gov.sg/introduction/what-is-formsg](https://guide.form.gov.sg/introduction/what-is-formsg)
