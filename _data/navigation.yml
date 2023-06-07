@@ -23,13 +23,10 @@ links:
         url: /products/WOGAA/description/
       - title: Vault
         url: /products/vault/description
-  - title: Resources
-    url: /resources/AskGov/description/
-    sublinks:
-      - title: AskGov
-        url: /resources/AskGov/description/
-  - title: Tools
-    url: /tools/For-sg/description/
-    sublinks:
       - title: For.gov.sg
         url: /tools/For-sg/description/
+      - title: AskGov
+        url: /resources/AskGov/description/
+  - title: Testimonals
+    url: /permalink
+    sublinks: []
