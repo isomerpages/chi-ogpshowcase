@@ -28,4 +28,7 @@ Reduced costs drastically...
 #### **In A Nutshell** <br>
 Believes this is a convenient tool...
 
+<br>
+<hr>
+
 *Link to CHI website created via Isomer: https://staging.d3t2xy7yc0hc1m.amplifyapp.com/*
