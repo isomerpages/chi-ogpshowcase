@@ -30,3 +30,5 @@ links:
   - title: Healthcare Use Cases
     url: /permalink
     sublinks: []
+  - title: Healthcare Use Cases
+    resource_room: true
