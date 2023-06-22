@@ -28,7 +28,4 @@ links:
       - title: AskGov
         url: /resources/AskGov/description/
   - title: Healthcare Use Cases
-    url: /permalink
-    sublinks: []
-  - title: Healthcare Use Cases [NEW]
     resource_room: true
