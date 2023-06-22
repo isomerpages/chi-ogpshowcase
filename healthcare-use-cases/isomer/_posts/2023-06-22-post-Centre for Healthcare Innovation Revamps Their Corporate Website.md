@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 #### **Project Owners**<br>
-The Centre of Healthcare Innovation (CHI)'s Partnerships team, helmed by Ms Patricia Chin...
+This project was helmed by Ms Patricia Chin and team from the Centre of Healthcare Innovation (CHI)'s Partnership and Communications Department. 
 
 #### **Aims of Project**<br>
 Set out to revamp CHI's corporate website, to achieve...
