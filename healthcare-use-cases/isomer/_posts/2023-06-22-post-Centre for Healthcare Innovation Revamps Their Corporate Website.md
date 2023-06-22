@@ -6,14 +6,14 @@ layout: post
 description: ""
 image: ""
 ---
-**Who They Are**<br>
-The Centre of Healthcare Innovation (CHI)'s Partnerships team, helmed by Mr Particia Chin...
+#### **Project Owners**<br>
+The Centre of Healthcare Innovation (CHI)'s Partnerships team, helmed by Ms Patricia Chin...
 
-**Why They Used Isomer**<br>
+#### **Aims of Project**<br>
 Set out to revamp CHI's corporate website, to achieve...
 
-**Benefits of Isomer**<br>
+#### **Benefits of Isomer**<br>
 Reduced costs drastically...
 
-**In A Nutshell** <br>
+#### **In A Nutshell** <br>
 Believes this is a convenient tool...
