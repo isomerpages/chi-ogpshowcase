@@ -23,7 +23,10 @@ Some of the challenges they had were:
 * **Exceeded timeline.** Sourcing for a new vendor could take up to 6 months, which exceeded the timeline for the project.
 
 #### **Benefits of Isomer**<br>
-Reduced costs drastically...
+The revamped CHI website boasts a fresh new look, as shown below. 
+![](/images/chi-corporate-website.PNG)
+
+The project has also managed to reduce costs drastically...
 
 #### **In A Nutshell** <br>
 Believes this is a convenient tool...
