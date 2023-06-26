@@ -12,7 +12,7 @@ This project was helmed by Ms Patricia Chin and team from the Centre of Healthca
 
 #### **Aims of Project**
 
-Set out to **revamp CHI's corporate website**, to achieve ___
+Set out to **revamp CHI's corporate website**.
 
 Previously, the team had to go through a tedious procurement process to engage new vendors to further develop their website. Thereafter, coordination between the vendors and IHiS had to occur to deploy the changes onto SharePoint. 
 
