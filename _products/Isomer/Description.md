@@ -11,4 +11,6 @@ third_nav_title: Isomer
 * Secure and reliable due to strict security policies and 24/7 site uptime monitoring.
 * Accessible on your clean/dirty laptops.
 
+For more information on some of the use cases of Isomer within the Healthcare industry, please refer to https://staging.d2p0smzkoz0iqs.amplifyapp.com/healthcare-use-cases/isomer/
+
 For more information on [Isomer](https://www.isomer.gov.sg/), please refer to [https://www.isomer.gov.sg/](https://www.isomer.gov.sg/)
