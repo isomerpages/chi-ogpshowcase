@@ -1,0 +1,62 @@
+title: Open Government Products for Healthcare
+url: https://www.open.gov.sg
+favicon: /images/CHI Favicon.png
+colors:
+  primary-color: "#a6192e"
+  secondary-color: "#065fd4"
+  media-colors:
+    - title: media-color-one
+      color: "#f7981d"
+    - title: media-color-two
+      color: "#065fd4"
+    - title: media-color-three
+      color: "#ec4047"
+    - title: media-color-four
+      color: "#6770b5"
+    - title: media-color-five
+      color: "#066554"
+description: A list of products and uses cases that are approved to use or in
+  use by staff of Tan Tock Seng Hospital. The site aims to empower staff with
+  whitelisted technology, to achieve better or similar results, with less
+  effort.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d2p0smzkoz0iqs.amplifyapp.com
+prod: https://master.d2p0smzkoz0iqs.amplifyapp.com
+shareicon: /images/TTSHLogoVertical.png
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
+resources_name: healthcare-use-cases

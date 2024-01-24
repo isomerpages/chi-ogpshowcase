@@ -1,0 +1,34 @@
+collections:
+  products:
+    output: true
+    order:
+      - CheckFirst/.keep
+      - CheckFirst/Description.md
+      - CheckFirst/Get Started.md
+      - DataGovSG/.keep
+      - DataGovSG/Description.md
+      - DataGovSG/Get Started.md
+      - FormSG/.keep
+      - FormSG/Description.md
+      - FormSG/Get Started.md
+      - Isomer/.keep
+      - Isomer/Description.md
+      - Isomer/Get Started.md
+      - PaySG/.keep
+      - PaySG/Description.md
+      - PaySG/Get Started.md
+      - PostmanGovSg/.keep
+      - PostmanGovSg/Description.md
+      - PostmanGovSg/Get Started.md
+      - RedeemSG/.keep
+      - RedeemSG/Description.md
+      - RedeemSG/Get Started.md
+      - SgID/.keep
+      - SgID/Description.md
+      - SgID/Get Started.md
+      - WOGAA/.keep
+      - WOGAA/Description.md
+      - WOGAA/Get Started.md
+      - Vault/.keep
+      - Vault/Description.md
+      - Vault/Get Started.md
